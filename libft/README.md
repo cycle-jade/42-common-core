@@ -11,7 +11,7 @@ Libft is a static library (`libft.a`) rebuilt from scratch in C. It reimplements
 **What it contains**
 - **Libc functions:** reimplementations with the same behaviour as the originals (for example `ft_strlen`, `ft_memcpy`, `ft_atoi`, `ft_strchr`)
 - **Additional functions:** `ft_substr`, `ft_strjoin`, `ft_strtrim`, `ft_split`, `ft_itoa`, `ft_strmapi`, `ft_striteri`, and the `ft_put*_fd` output functions
-- **Linked lists:** `ft_lstnew`, `ft_lstadd_front`, `ft_lstadd_back`, `ft_lstsize`, `ft_lstlast`, `ft_lstdelone`, `ft_lstclear`, `ft_lstiter`, `ft_lstmap`
+
 
 Built with `-Wall -Wextra -Werror`, no global variables, and the library is created with `ar`.
 
