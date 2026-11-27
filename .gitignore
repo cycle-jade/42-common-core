@@ -9,8 +9,6 @@ client
 server
 client_bonus
 server_bonus
-push_swap
-so_long
 philo
 so_long/printf/ft_printf
 push_swap/printf/ft_printf
@@ -23,3 +21,6 @@ secrets/
 
 .vscode/
 .DS_Store
+
+/push_swap/push_swap
+/so_long/so_long
